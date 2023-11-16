@@ -10,7 +10,7 @@ This small Python script utilizes the Tkinter library to create a simple graphic
 
 1. **Download the Executable:**
 
-   - Download the executable file (`hash_checker.exe`) from the desired location.
+   - Download the executable file (`hashChecker.exe`) from the desired location.
 
 2. **Run the Executable:**
 
@@ -22,7 +22,7 @@ This small Python script utilizes the Tkinter library to create a simple graphic
 
 or
 
-1. Run the `hash_checker.py` script.
+1. Run the `hashChecker.py` script.
 2. Enter the hash you want to check in the input field.
 3. Click the "Select File to check hash" button to choose the file you want to verify.
 4. The script will calculate the SHA-256 hash of the selected file and compare it with the provided hash.
