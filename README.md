@@ -1,36 +1,26 @@
 # Hash Checker
 
-This small Python script utilizes the Tkinter library to create a simple graphical interface that allows you to check whether a provided SHA-256 hash matches the content of a selected file.
+This compact Python script, powered by the Tkinter library, provides a simple graphical interface to verify whether a provided hash (MD5, SHA-1, SHA-256, SHA-384, or SHA-512) matches the content of a selected file.
 
 ## Requirements
 
-- Installed Python 3.x
+- Python 3.x installed on your system.
 
 ## Usage
 
-1. **Download the Executable:**
+1. **Download and Run the Executable:**
 
-   - Download the executable file (`hashChecker.exe`) from the desired location.
+   - Obtain the executable file (`hashChecker.exe`) from your desired location and double-click to launch the application.
 
-2. **Run the Executable:**
+2. **Interact with the Graphical Interface:**
 
-   - Double-click the executable file to launch the application.
+   - The graphical interface opens with a dropdown menu allowing you to select the hash function. Enter the hash and select the file.
 
-3. **Interact with the Graphical Interface:**
-
-   - The graphical interface should appear, allowing you to enter the hash and select the file just like in the script version.
-
-or
-
-1. Run the `hashChecker.py` script.
-2. Enter the hash you want to check in the input field.
-3. Click the "Select File to check hash" button to choose the file you want to verify.
-4. The script will calculate the SHA-256 hash of the selected file and compare it with the provided hash.
-5. A message will be displayed indicating whether the hashes match or not.
+   - Alternatively, you can run the `hashChecker.py` script
 
 ## Warning
 
-Be cautious when handling files and providing hashes. Make sure to fully understand the purpose and implications before using this script.
+Exercise caution when handling files and providing hashes. Ensure a full understanding of the script's purpose and implications before use.
 
 ## Verifying Hash using PowerShell (Windows)
 
@@ -47,3 +37,35 @@ To verify the hash of a file using PowerShell:
    Replace your_file.txt with the actual name of your file.
 
 Compare the displayed hash with the hash you want to verify. If they match, the file content is unchanged.
+
+## Verifying the executable
+
+- MD5
+
+  ```
+  eb5edbb0517e2378334bdaf1a7fb9365
+  ```
+
+- SHA-1
+
+  ```
+  d51007a9800bfbbb0feaed7eb95de5ab16cfd720
+  ```
+
+- SHA-256
+
+  ```
+  6ea8260e58a2d155a24df6a1703685bf66661068a7cdbcd0a97981a3735c1b4b
+  ```
+
+- SHA-384
+
+  ```
+  63ac162d28b880127e9a9695fb2fcf73b02f31b6ce923f3bef5cd1ec28aa4723f480b1e97458b66924826330fdbbd4f2
+  ```
+
+- SHA-512
+
+  ```
+  e31f8156856a2d5439dd4db5127b1ab1fa4619e457422ce35101754290cb9467c10dcbd5335b7ff2e59cbb10ae353b3dfd22766ee30a39cd15af26f2810d7ff3
+  ```
