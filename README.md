@@ -43,29 +43,29 @@ Compare the displayed hash with the hash you want to verify. If they match, the 
 - MD5
 
   ```
-  eb5edbb0517e2378334bdaf1a7fb9365
+  59427373bbbe49004a9c7aedd9885e1c
   ```
 
 - SHA-1
 
   ```
-  d51007a9800bfbbb0feaed7eb95de5ab16cfd720
+  27f37952e8d23368b014a2b643a3fd8bc5a4b14d
   ```
 
 - SHA-256
 
   ```
-  6ea8260e58a2d155a24df6a1703685bf66661068a7cdbcd0a97981a3735c1b4b
+  5e4a86b7f601996475c6ec8c66a175cf68e86563f02ac0efae5f86ff80a72e9e
   ```
 
 - SHA-384
 
   ```
-  63ac162d28b880127e9a9695fb2fcf73b02f31b6ce923f3bef5cd1ec28aa4723f480b1e97458b66924826330fdbbd4f2
+  8de94bef838ba2bd8794c6fe7af6cb8f0598ca70673ba16cca4695ddd6b5806a18fd0e55f9aa6635f48752bbeb107bae
   ```
 
 - SHA-512
 
   ```
-  e31f8156856a2d5439dd4db5127b1ab1fa4619e457422ce35101754290cb9467c10dcbd5335b7ff2e59cbb10ae353b3dfd22766ee30a39cd15af26f2810d7ff3
+  3bf7d54e791aabea9226ec13edcadff783a7f61d7cfdde5acfae133f0718c037564b058d0f450b3d9a1eb0b489ee7f06a2dd6aa8b809f3a941ceb942f9b3a1c5
   ```
