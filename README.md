@@ -62,14 +62,6 @@ python hashTools.py
 
 Exercise caution when handling files and providing hashes. Ensure a full understanding of the script's purpose and implications before use.
 
-## Warning
-
-Exercise caution when handling files and providing hashes. Ensure a full understanding of the script's purpose and implications before use.
-
-## Warning
-
-Exercise caution when handling files and providing hashes. Ensure a full understanding of the script's purpose and implications before use.
-
 ## Verifying Hash using PowerShell (Windows)
 
 To verify the hash of a file using PowerShell:
